@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/msquarednet/cd9053-fizzbuzz/issues"
   },
-  "homepage": "https://github.com/msquarednet/cd9053-fizzbuzz"
+  "homepage": "https://github.com/msquarednet/cd9053-fizzbuzz",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
