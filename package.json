@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz_module",
+  "version": "0.0.1",
+  "description": "computes a fizzbuzz sequence",
+  "main": "src/fizzbuzz.js",
+  "scripts": {
+    "test": "jasmine-node spec/fizzbuzz_spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msquarednet/cd9053-fizzbuzz.git"
+  },
+  "keywords": [
+    "fizzbuzz"
+  ],
+  "author": "ZAP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msquarednet/cd9053-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/msquarednet/cd9053-fizzbuzz"
+}
