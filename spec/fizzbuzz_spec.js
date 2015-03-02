@@ -10,6 +10,7 @@ describe("Fizzbuzz", function() {
         beforeEach(function() {
             result = fizzbuzz.generate(3);
         });
+        console.log(result);
         it("returns [1,2,'fizz']", function() {
             expect(result).toEqual([1,2,"fizz"]);
         });
